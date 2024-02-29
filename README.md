@@ -1,6 +1,6 @@
 # Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-#学习资料库，算法框架，数据库等
+#学习资料库，算法框架，数据库等，当你看到这条注释的时候，千万要坚持
 
 An opinionated list of awesome Python frameworks, libraries, software and resources.
 
